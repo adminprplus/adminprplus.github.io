@@ -21,3 +21,4 @@ th,td{border:1px solid var(--vien);padding:8px 10px;text-align:left;vertical-ali
 blockquote{margin:0 0 16px;padding:12px 16px;border-left:4px solid var(--nhan);background:var(--nhan-nhat);border-radius:6px}
 footer{border-top:1px solid var(--vien);color:var(--phu);font-size:15px;padding:20px 0 32px}
 @media (max-width:560px){body{font-size:17px}h1{font-size:26px}h2{font-size:21px}nav a{margin-left:0;margin-right:12px}}
+p a,li a,td a{overflow-wrap:anywhere;word-break:break-word}
